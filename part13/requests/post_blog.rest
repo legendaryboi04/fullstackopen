@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/blogs/ 
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNyaWloaW1hIiwiaWQiOjEsImlhdCI6MTY2NTA1MzI0OH0.rdAnRt7hbakvq0IL7dRJvLIr3BB-FyQBMb3J0lA_V1s
+
+{
+   "author": "rolle",
+   "url": "http://turahd.us",
+   "title": "ilmavaivoja"
+}
